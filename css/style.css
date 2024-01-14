@@ -32,7 +32,7 @@
 /* Template default CSS
 /*----------------------------------------*/
 
-html,
+html {scroll-behavior: smooth;}
 body {
 	height: 100%;
 	font-family: "Lato", sans-serif;
@@ -1615,7 +1615,7 @@ ol {
 }
 
 .services__item__text h4 span {
-	color: #88C417;
+	color: #3ad1de;
 }
 
 .services__item__text p {
