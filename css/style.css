@@ -76,7 +76,7 @@ h6 {
 }
 
 p {
-	font-size: 19px;
+	font-size: 18px;
 	font-family: "Lato", sans-serif;
 	color: #000;
 	font-weight: 400;
@@ -1222,7 +1222,7 @@ ol {
 }
 
 .footer__copyright__text a {
-	color: #88C417;
+	color: #fff;
 }
 
 /*---------------------
