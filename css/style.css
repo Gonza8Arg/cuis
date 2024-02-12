@@ -544,11 +544,11 @@ ol {
 -----------------------*/
 
 .hero {
-	padding: 70px 0;
+	padding: 130px 0px 130px 0;
 }
 
 .hero__text {
-	padding-top: 95px;
+	padding-top: 0px;
 }
 
 .hero__text h2 {
